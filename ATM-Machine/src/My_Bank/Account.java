@@ -10,7 +10,6 @@ public class Account {
    private int pinNumber;
    private double checkingBalance = 0;
    private double savingBalance = 0;
-   public int Boo;
    
    public int setCustomerNumber(int customerNumber) {
 	   this.customerNumber = customerNumber;
